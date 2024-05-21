@@ -40,6 +40,6 @@ I am deeply dedicated to the field of AI, specializing in Computer Vision 👁�
 
 ## 📄 My CV
 
-For a detailed overview of my professional experience, education, and skills, you can view my CV [here](https://drive.google.com/file/d/1qUFzTfbNebxLaKLI-p3F9ciii3wr03To/view?usp=sharing). 📝
+For a detailed overview of my professional experience, education, and skills, you can view my CV [here](https://drive.google.com/file/d/19JaYTwK0WVJSkjj1P4VzBrzRdAEVFGrW/view?usp=drivesdk). 📝
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects or discuss opportunities in AI and robotics. Let's innovate together! 🚀
